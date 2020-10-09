@@ -1,0 +1,13 @@
+/home/casper/Documents/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld
+/home/casper/Documents/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/home/casper/Documents/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/home/casper/Documents/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/home/casper/Documents/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/home/casper/Documents/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/casper/Documents/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/home/casper/Documents/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/home/casper/Documents/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/home/casper/Documents/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/home/casper/Documents/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/home/casper/Documents/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/casper/Documents/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache

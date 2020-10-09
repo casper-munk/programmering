@@ -1,0 +1,13 @@
+/home/casper/Documents/uppgift/bin/Debug/netcoreapp3.1/uppgift
+/home/casper/Documents/uppgift/bin/Debug/netcoreapp3.1/uppgift.deps.json
+/home/casper/Documents/uppgift/bin/Debug/netcoreapp3.1/uppgift.runtimeconfig.json
+/home/casper/Documents/uppgift/bin/Debug/netcoreapp3.1/uppgift.runtimeconfig.dev.json
+/home/casper/Documents/uppgift/bin/Debug/netcoreapp3.1/uppgift.dll
+/home/casper/Documents/uppgift/bin/Debug/netcoreapp3.1/uppgift.pdb
+/home/casper/Documents/uppgift/obj/Debug/netcoreapp3.1/uppgift.csprojAssemblyReference.cache
+/home/casper/Documents/uppgift/obj/Debug/netcoreapp3.1/uppgift.AssemblyInfoInputs.cache
+/home/casper/Documents/uppgift/obj/Debug/netcoreapp3.1/uppgift.AssemblyInfo.cs
+/home/casper/Documents/uppgift/obj/Debug/netcoreapp3.1/uppgift.csproj.CoreCompileInputs.cache
+/home/casper/Documents/uppgift/obj/Debug/netcoreapp3.1/uppgift.dll
+/home/casper/Documents/uppgift/obj/Debug/netcoreapp3.1/uppgift.pdb
+/home/casper/Documents/uppgift/obj/Debug/netcoreapp3.1/uppgift.genruntimeconfig.cache
