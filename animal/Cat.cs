@@ -12,7 +12,7 @@ namespace animal
       }
       public void Act()
       {
-          Console.WriteLine("mjau");
+          Console.WriteLine("mjau" + age);
       }
     }
 }

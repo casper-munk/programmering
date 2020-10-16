@@ -6,12 +6,8 @@ namespace animal
     {
         static void Main(string[] args)
         {
-            Cat minKatt = new Cat(5);
-            minKatt.Act();
-
-            Dog minhund = new Dog(5);
-            minhund.Act();
-
+            Zoo djurpark = new Zoo();
+            djurpark.Run();
         }
     }
 }

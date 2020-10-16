@@ -12,7 +12,8 @@ namespace animal
         }
         public void Act()
         {
-            Console.WriteLine("woof");
+            Console.WriteLine("woof" + age);
+
         }
         
     }
