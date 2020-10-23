@@ -6,8 +6,8 @@ namespace arv_sak
     {
         static void Main(string[] args)
         {
-            Databas Sak = new Databas();
-            Sak.Run();
+            Databas databas = new Databas();
+            
         }
     }
 }

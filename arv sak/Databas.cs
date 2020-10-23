@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace arv_sak
 {
-    class Databas
+    class Databas 
     {
         List<Sak> databas;
         public Databas()
@@ -23,7 +23,7 @@ namespace arv_sak
 
           foreach(Sak saken in databas )
           {
-
+            saken.Act();
           }
         }
         

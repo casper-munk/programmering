@@ -12,6 +12,10 @@ namespace arv_sak
         {
             
         }
+        public virtual void Act()
+        {
+           Console.WriteLine(titel); 
+        }
 
     }
         
