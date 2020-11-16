@@ -21,6 +21,12 @@ namespace Interface1
         {
             return 4 * Math.PI * radius * radius * radius / 3;
         }
+        public override string ToString()
+        {
+            return "Sphere: " +Environment.NewLine + "radius=" +radius + Environment.NewLine + "Volume=" +GetVolume() + Environment.NewLine + "Area=" +GetArea() + Environment.NewLine;
+         }
+
+
 
        
     }

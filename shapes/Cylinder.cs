@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Interface1
 {
-    class Cylinder
+    class Cylinder : Shape3D
     {
 
             protected double radius;
@@ -25,6 +25,10 @@ namespace Interface1
         {
             return 2 * Math.PI * radius * height;
         }
+         public override string ToString()
+        {
+            return "Cylinder: " +Environment.NewLine + "radius=" +radius + Environment.NewLine + "height=" +height +Environment.NewLine + "Volume=" +GetVolume() + Environment.NewLine + "Area=" +GetArea()+ Environment.NewLine ;
+         }
         
     }
 }
