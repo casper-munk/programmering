@@ -4,8 +4,8 @@ namespace Anstalld1
 {
     class Provision : Anstalld
     {
-        private double provision;
-        private double försäljning;
+        protected double provision;
+        protected double försäljning;
        
        public Provision(string namnet, double provision, double försäljning):base(namnet)
        {
@@ -24,7 +24,8 @@ namespace Anstalld1
                 Environment.NewLine + "provisionsanställd" + 
                 Environment.NewLine + "provision: " +provision + 
                 Environment.NewLine + "försäljning:" +försäljning + 
-                Environment.NewLine + "lön:" + BeräknaLön();
+                Environment.NewLine + "lön:" + BeräknaLön() +
+                Environment.NewLine;
 
        }
     }
